@@ -2,5 +2,13 @@
 ATTACK_ON_TITAN32/
 ATTACK_ON_TITAN64/
 
+# Visual Studio
+.vs/
+[Bb]in/
+[Oo]bj/
+[Ll]ib/
+*.sln
+*.pdb
+
 # VS Code
 .vscode/
