@@ -1,0 +1,16 @@
+C:\Users\Summer\Desktop\Development\aottg\AoTTG-R\Mocha\Mocha64\Mocha_Data\Managed\Assembly-CSharp.dll
+C:\Users\Summer\Desktop\Development\aottg\AoTTG-R\Mocha\Mocha64\Mocha_Data\Managed\Assembly-CSharp.pdb
+C:\Users\Summer\Desktop\Development\aottg\AoTTG-R\Mocha\Assembly-CSharp\obj\x64\Release\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Summer\Desktop\Development\aottg\AoTTG-R\Mocha\Assembly-CSharp\obj\x64\Release\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Summer\Desktop\Development\aottg\AoTTG-R\Mocha\Assembly-CSharp\obj\x64\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Summer\Desktop\Development\aottg\AoTTG-R\Mocha\Assembly-CSharp\obj\x64\Release\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Summer\Desktop\Development\aottg\AoTTG-R\Mocha\Assembly-CSharp\obj\x64\Release\Assembly-CSharp.dll
+C:\Users\Summer\Desktop\Development\aottg\AoTTG-R\Mocha\Assembly-CSharp\obj\x64\Release\Assembly-CSharp.pdb
+C:\Users\Summer\Desktop\Development\aottg\AoTTG-R\Vanilla\ATTACK_ON_TITAN32\ATTACK_ON_TITAN_Data\Managed\Assembly-CSharp.dll
+C:\Users\Summer\Desktop\Development\aottg\AoTTG-R\Vanilla\ATTACK_ON_TITAN32\ATTACK_ON_TITAN_Data\Managed\Assembly-CSharp.pdb
+C:\Users\Summer\Desktop\Development\AoTTG\AoTTG-R\Vanilla\Assembly-CSharp\obj\x64\Release\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Summer\Desktop\Development\AoTTG\AoTTG-R\Vanilla\Assembly-CSharp\obj\x64\Release\Assembly-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Summer\Desktop\Development\AoTTG\AoTTG-R\Vanilla\Assembly-CSharp\obj\x64\Release\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Summer\Desktop\Development\AoTTG\AoTTG-R\Vanilla\Assembly-CSharp\obj\x64\Release\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Summer\Desktop\Development\AoTTG\AoTTG-R\Vanilla\Assembly-CSharp\obj\x64\Release\Assembly-CSharp.dll
+C:\Users\Summer\Desktop\Development\AoTTG\AoTTG-R\Vanilla\Assembly-CSharp\obj\x64\Release\Assembly-CSharp.pdb
